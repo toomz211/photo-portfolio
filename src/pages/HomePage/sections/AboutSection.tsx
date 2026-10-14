@@ -1,6 +1,6 @@
 import { GraduationCap, Trophy, CalendarDays } from 'lucide-react';
 import { cn } from '@/lib/utils';
-import { asset } from '@/lib/paths';
+import { webpSrc, srcSetFor } from '@/lib/paths';
 import { PROFILE } from '@/data/profile';
 import SectionHeader from '@/pages/HomePage/sections/SectionHeader';
 import { Reveal, Stagger, StaggerItem } from '@/components/Reveal';
@@ -34,10 +34,13 @@ export default function AboutSection({ id }: AboutSectionProps) {
               <div className="absolute -bottom-4 -right-4 h-28 w-28 rounded-2xl bg-accent/20" />
               <div className="relative overflow-hidden rounded-3xl border border-border bg-white shadow-sm">
                 <img
-                  src={asset('images/portrait.jpg')}
+                  src={webpSrc('images/portrait.jpg', 1600)}
+                  srcSet={srcSetFor('images/portrait.jpg')}
+                  sizes="(max-width: 1024px) 80vw, 380px"
                   alt={`${PROFILE.name} 证件照`}
                   className="aspect-[3/4] w-full object-cover"
                   loading="lazy"
+                  decoding="async"
                 />
                 <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/70 to-transparent p-5 text-white">
                   <p className="text-lg font-bold">{PROFILE.name}</p>

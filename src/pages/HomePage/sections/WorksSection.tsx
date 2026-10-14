@@ -1,7 +1,7 @@
 import { useMemo, useState } from 'react';
 import { Reorder } from 'framer-motion';
 import { GripVertical, X, ZoomIn } from 'lucide-react';
-import { asset } from '@/lib/paths';
+import { webpSrc, srcSetFor, GALLERY_SIZES } from '@/lib/paths';
 import { PHOTO_WORKS } from '@/data/profile';
 import SectionHeader from '@/pages/HomePage/sections/SectionHeader';
 import Lightbox from '@/pages/HomePage/sections/Lightbox';
@@ -108,10 +108,13 @@ export default function WorksSection({ id }: WorksSectionProps) {
                 >
                   <div className="relative overflow-hidden">
                     <img
-                      src={asset(work.src)}
+                      src={webpSrc(work.src, 1600)}
+                      srcSet={srcSetFor(work.src)}
+                      sizes={GALLERY_SIZES}
                       alt={work.title}
                       className="w-full object-cover transition-transform duration-500 group-hover:scale-105"
                       loading="lazy"
+                      decoding="async"
                     />
                     <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent opacity-0 transition-opacity duration-300 group-hover:opacity-100" />
                     <div className="absolute inset-x-0 bottom-0 translate-y-2 p-4 text-left opacity-0 transition-all duration-300 group-hover:translate-y-0 group-hover:opacity-100">
@@ -147,10 +150,11 @@ export default function WorksSection({ id }: WorksSectionProps) {
               >
                 <div className="relative aspect-[4/3] overflow-hidden">
                   <img
-                    src={asset(work.src)}
+                    src={webpSrc(work.src, 800)}
                     alt={work.title}
                     className="h-full w-full object-cover"
                     loading="lazy"
+                    decoding="async"
                   />
                   <div className="absolute inset-0 bg-black/10" />
                   {/* 删除按钮 */}

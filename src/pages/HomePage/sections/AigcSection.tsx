@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { Reorder } from 'framer-motion';
 import { GripVertical, Trophy, Palette, X } from 'lucide-react';
-import { asset } from '@/lib/paths';
+import { webpSrc, srcSetFor, GALLERY_SIZES } from '@/lib/paths';
 import { AIGC_WORKS } from '@/data/profile';
 import SectionHeader from '@/pages/HomePage/sections/SectionHeader';
 import GalleryEditorBar from '@/components/GalleryEditorBar';
@@ -92,10 +92,13 @@ export default function AigcSection({ id }: AigcSectionProps) {
                 <figure className="group relative overflow-hidden rounded-2xl border border-border bg-white shadow-sm transition-all hover:-translate-y-1 hover:shadow-lg">
                   <div className="relative overflow-hidden">
                     <img
-                      src={asset(work.src)}
+                      src={webpSrc(work.src, 1600)}
+                      srcSet={srcSetFor(work.src)}
+                      sizes={GALLERY_SIZES}
                       alt={work.title}
                       className="aspect-[4/3] w-full object-cover transition-transform duration-500 group-hover:scale-105"
                       loading="lazy"
+                      decoding="async"
                     />
                     <span className="absolute left-3 top-3 rounded-full bg-accent px-2.5 py-0.5 text-xs font-bold text-white shadow-sm">
                       {work.tag} · {String(i + 1).padStart(2, '0')}
@@ -128,10 +131,11 @@ export default function AigcSection({ id }: AigcSectionProps) {
               >
                 <div className="relative aspect-[4/3] overflow-hidden">
                   <img
-                    src={asset(work.src)}
+                    src={webpSrc(work.src, 800)}
                     alt={work.title}
                     className="h-full w-full object-cover"
                     loading="lazy"
+                    decoding="async"
                   />
                   <div className="absolute inset-0 bg-black/10" />
                   <button

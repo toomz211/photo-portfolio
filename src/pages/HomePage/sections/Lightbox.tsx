@@ -1,6 +1,6 @@
 import { useEffect } from 'react';
 import { ChevronLeft, ChevronRight, X } from 'lucide-react';
-import { asset } from '@/lib/paths';
+import { webpSrc } from '@/lib/paths';
 
 export interface LightboxItem {
   src: string;
@@ -89,7 +89,9 @@ export default function Lightbox({
         onClick={(e) => e.stopPropagation()}
       >
         <img
-          src={asset(item.src)}
+          src={webpSrc(item.src, 3200)}
+          srcSet={`${webpSrc(item.src, 1600)} 1600w, ${webpSrc(item.src, 3200)} 3200w`}
+          sizes="(max-width: 768px) 96vw, 1200px"
           alt={item.title}
           className="max-h-[78vh] w-auto rounded-xl object-contain shadow-2xl"
         />
