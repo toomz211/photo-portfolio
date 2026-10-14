@@ -1,0 +1,1540 @@
+{
+ "photo": [
+  {
+   "file": "work-01.jpg",
+   "src": "images/work-01.jpg",
+   "tag": "时尚人像",
+   "title": "时尚人像",
+   "orig": "2.jpg",
+   "w": 3200,
+   "h": 1665
+  },
+  {
+   "file": "work-02.jpg",
+   "src": "images/work-02.jpg",
+   "tag": "人像写真",
+   "title": "人像写真 · 精修",
+   "orig": "DSC01356_2026-08-29-16-42-45-433_创意图.jpg",
+   "w": 1536,
+   "h": 1023
+  },
+  {
+   "file": "work-03.jpg",
+   "src": "images/work-03.jpg",
+   "tag": "人像写真",
+   "title": "人像写真 · 精修",
+   "orig": "DSC01383_2026-08-29-16-38-17-113_创意图.jpg",
+   "w": 1280,
+   "h": 1920
+  },
+  {
+   "file": "work-04.jpg",
+   "src": "images/work-04.jpg",
+   "tag": "人像写真",
+   "title": "人像写真 · 原片",
+   "orig": "DSC01529.jpg",
+   "w": 3200,
+   "h": 2133
+  },
+  {
+   "file": "work-05.jpg",
+   "src": "images/work-05.jpg",
+   "tag": "人像写真",
+   "title": "人像写真 · 原片",
+   "orig": "DSC01531.jpg",
+   "w": 3200,
+   "h": 2133
+  },
+  {
+   "file": "work-06.jpg",
+   "src": "images/work-06.jpg",
+   "tag": "人像写真",
+   "title": "人像写真 · 原片",
+   "orig": "DSC01532.jpg",
+   "w": 3200,
+   "h": 2133
+  },
+  {
+   "file": "work-07.jpg",
+   "src": "images/work-07.jpg",
+   "tag": "人像写真",
+   "title": "人像写真 · 精修",
+   "orig": "DSC01537_2026-08-29-17-30-37-298_创意图.jpg",
+   "w": 3200,
+   "h": 1646
+  },
+  {
+   "file": "work-08.jpg",
+   "src": "images/work-08.jpg",
+   "tag": "人像写真",
+   "title": "人像写真 · 原片",
+   "orig": "DSC01557.jpg",
+   "w": 3200,
+   "h": 2133
+  },
+  {
+   "file": "work-09.jpg",
+   "src": "images/work-09.jpg",
+   "tag": "人像写真",
+   "title": "人像写真 · 原片",
+   "orig": "DSC01564.jpg",
+   "w": 3200,
+   "h": 2133
+  },
+  {
+   "file": "work-10.jpg",
+   "src": "images/work-10.jpg",
+   "tag": "人像写真",
+   "title": "人像写真 · 原片",
+   "orig": "DSC01588.jpg",
+   "w": 3200,
+   "h": 2133
+  },
+  {
+   "file": "work-11.jpg",
+   "src": "images/work-11.jpg",
+   "tag": "人像写真",
+   "title": "人像写真 · 精修",
+   "orig": "DSC01621_2026-08-29-18-19-46-645_创意图.jpg",
+   "w": 3200,
+   "h": 2133
+  },
+  {
+   "file": "work-12.jpg",
+   "src": "images/work-12.jpg",
+   "tag": "人像写真",
+   "title": "人像写真 · 精修",
+   "orig": "DSC01621_2026-08-29-18-24-24-059_创意图.jpg",
+   "w": 3200,
+   "h": 2133
+  },
+  {
+   "file": "work-13.jpg",
+   "src": "images/work-13.jpg",
+   "tag": "人像写真",
+   "title": "人像写真 · 原片",
+   "orig": "DSC01634.jpg",
+   "w": 3200,
+   "h": 2133
+  },
+  {
+   "file": "work-14.jpg",
+   "src": "images/work-14.jpg",
+   "tag": "人像写真",
+   "title": "人像写真 · 原片",
+   "orig": "DSC01636.jpg",
+   "w": 2133,
+   "h": 3200
+  },
+  {
+   "file": "work-15.jpg",
+   "src": "images/work-15.jpg",
+   "tag": "人像写真",
+   "title": "人像写真 · 原片",
+   "orig": "DSC01647.jpg",
+   "w": 3200,
+   "h": 2133
+  },
+  {
+   "file": "work-16.jpg",
+   "src": "images/work-16.jpg",
+   "tag": "人像写真",
+   "title": "人像写真 · 原片",
+   "orig": "DSC01655.jpg",
+   "w": 3200,
+   "h": 2133
+  },
+  {
+   "file": "work-17.jpg",
+   "src": "images/work-17.jpg",
+   "tag": "人像写真",
+   "title": "人像写真 · 原片",
+   "orig": "DSC01680.jpg",
+   "w": 3200,
+   "h": 2133
+  },
+  {
+   "file": "work-18.jpg",
+   "src": "images/work-18.jpg",
+   "tag": "人像写真",
+   "title": "人像写真 · 原片",
+   "orig": "DSC01690.jpg",
+   "w": 3200,
+   "h": 2133
+  },
+  {
+   "file": "work-19.jpg",
+   "src": "images/work-19.jpg",
+   "tag": "人像写真",
+   "title": "人像写真 · 精修",
+   "orig": "DSC01690_2026-08-29-17-57-08-783_创意图.jpg",
+   "w": 3200,
+   "h": 2133
+  },
+  {
+   "file": "work-20.jpg",
+   "src": "images/work-20.jpg",
+   "tag": "人像写真",
+   "title": "人像写真 · 原片",
+   "orig": "DSC01768.jpg",
+   "w": 3200,
+   "h": 2133
+  },
+  {
+   "file": "work-21.jpg",
+   "src": "images/work-21.jpg",
+   "tag": "生活随拍",
+   "title": "生活随拍",
+   "orig": "IMG_0339.jpg",
+   "w": 3200,
+   "h": 2133
+  },
+  {
+   "file": "work-22.jpg",
+   "src": "images/work-22.jpg",
+   "tag": "生活随拍",
+   "title": "生活随拍",
+   "orig": "IMG_0340.jpg",
+   "w": 3200,
+   "h": 2133
+  },
+  {
+   "file": "work-23.jpg",
+   "src": "images/work-23.jpg",
+   "tag": "生活随拍",
+   "title": "生活随拍",
+   "orig": "IMG_0349_(2).jpg",
+   "w": 2133,
+   "h": 3200
+  },
+  {
+   "file": "work-24.jpg",
+   "src": "images/work-24.jpg",
+   "tag": "生活随拍",
+   "title": "生活随拍",
+   "orig": "IMG_0480.jpg",
+   "w": 3200,
+   "h": 2133
+  },
+  {
+   "file": "work-25.jpg",
+   "src": "images/work-25.jpg",
+   "tag": "生活随拍",
+   "title": "生活随拍",
+   "orig": "IMG_0520.jpg",
+   "w": 3200,
+   "h": 2133
+  },
+  {
+   "file": "work-26.jpg",
+   "src": "images/work-26.jpg",
+   "tag": "其他",
+   "title": "其他",
+   "orig": "P1026705.jpg",
+   "w": 3024,
+   "h": 2016
+  },
+  {
+   "file": "work-27.jpg",
+   "src": "images/work-27.jpg",
+   "tag": "其他",
+   "title": "其他",
+   "orig": "P1026719.jpg",
+   "w": 3024,
+   "h": 2016
+  },
+  {
+   "file": "work-28.jpg",
+   "src": "images/work-28.jpg",
+   "tag": "旅拍人像",
+   "title": "旅拍人像",
+   "orig": "P1058052.jpg",
+   "w": 2016,
+   "h": 3024
+  },
+  {
+   "file": "work-29.jpg",
+   "src": "images/work-29.jpg",
+   "tag": "旅拍人像",
+   "title": "旅拍人像",
+   "orig": "P1058056.jpg",
+   "w": 3024,
+   "h": 2016
+  },
+  {
+   "file": "work-30.jpg",
+   "src": "images/work-30.jpg",
+   "tag": "旅拍人像",
+   "title": "旅拍人像",
+   "orig": "P1058136.jpg",
+   "w": 3024,
+   "h": 2016
+  },
+  {
+   "file": "work-31.jpg",
+   "src": "images/work-31.jpg",
+   "tag": "旅拍人像",
+   "title": "旅拍人像",
+   "orig": "P1058416.jpg",
+   "w": 3024,
+   "h": 2016
+  },
+  {
+   "file": "work-32.jpg",
+   "src": "images/work-32.jpg",
+   "tag": "旅拍人像",
+   "title": "旅拍人像",
+   "orig": "P1058740.jpg",
+   "w": 2016,
+   "h": 3024
+  },
+  {
+   "file": "work-33.jpg",
+   "src": "images/work-33.jpg",
+   "tag": "旅拍人像",
+   "title": "旅拍人像",
+   "orig": "P1059052.jpg",
+   "w": 2889,
+   "h": 1926
+  },
+  {
+   "file": "work-34.jpg",
+   "src": "images/work-34.jpg",
+   "tag": "旅拍人像",
+   "title": "旅拍人像",
+   "orig": "P1059062.jpg",
+   "w": 3024,
+   "h": 2016
+  },
+  {
+   "file": "work-35.jpg",
+   "src": "images/work-35.jpg",
+   "tag": "旅拍人像",
+   "title": "旅拍人像",
+   "orig": "P1059070.jpg",
+   "w": 2016,
+   "h": 3024
+  },
+  {
+   "file": "work-36.jpg",
+   "src": "images/work-36.jpg",
+   "tag": "旅拍人像",
+   "title": "旅拍人像",
+   "orig": "P1059074.jpg",
+   "w": 3024,
+   "h": 2016
+  },
+  {
+   "file": "work-37.jpg",
+   "src": "images/work-37.jpg",
+   "tag": "旅拍人像",
+   "title": "旅拍人像",
+   "orig": "P1059082.jpg",
+   "w": 2016,
+   "h": 3024
+  },
+  {
+   "file": "work-38.jpg",
+   "src": "images/work-38.jpg",
+   "tag": "旅拍人像",
+   "title": "旅拍人像",
+   "orig": "P1059102.jpg",
+   "w": 2016,
+   "h": 3024
+  },
+  {
+   "file": "work-39.jpg",
+   "src": "images/work-39.jpg",
+   "tag": "旅拍人像",
+   "title": "旅拍人像",
+   "orig": "P1059105.jpg",
+   "w": 2016,
+   "h": 3024
+  },
+  {
+   "file": "work-40.jpg",
+   "src": "images/work-40.jpg",
+   "tag": "夜景人像",
+   "title": "夜景人像",
+   "orig": "P1071219.jpg",
+   "w": 3200,
+   "h": 1665
+  },
+  {
+   "file": "work-41.jpg",
+   "src": "images/work-41.jpg",
+   "tag": "夜景人像",
+   "title": "夜景人像",
+   "orig": "P1071223.jpg",
+   "w": 3200,
+   "h": 1598
+  },
+  {
+   "file": "work-42.jpg",
+   "src": "images/work-42.jpg",
+   "tag": "夜景人像",
+   "title": "夜景人像",
+   "orig": "P1071232.jpg",
+   "w": 3200,
+   "h": 1621
+  },
+  {
+   "file": "work-43.jpg",
+   "src": "images/work-43.jpg",
+   "tag": "夜景人像",
+   "title": "夜景人像",
+   "orig": "P1081295.jpg",
+   "w": 3199,
+   "h": 1943
+  },
+  {
+   "file": "work-44.jpg",
+   "src": "images/work-44.jpg",
+   "tag": "夜景人像",
+   "title": "夜景人像",
+   "orig": "P1081324.jpg",
+   "w": 3200,
+   "h": 1796
+  },
+  {
+   "file": "work-45.jpg",
+   "src": "images/work-45.jpg",
+   "tag": "夜景人像",
+   "title": "夜景人像",
+   "orig": "P1081327.jpg",
+   "w": 3200,
+   "h": 1796
+  },
+  {
+   "file": "work-46.jpg",
+   "src": "images/work-46.jpg",
+   "tag": "夜景人像",
+   "title": "夜景人像",
+   "orig": "P1081339_(2).jpg",
+   "w": 3200,
+   "h": 1796
+  },
+  {
+   "file": "work-47.jpg",
+   "src": "images/work-47.jpg",
+   "tag": "夜景人像",
+   "title": "夜景人像",
+   "orig": "P1081374.jpg",
+   "w": 3200,
+   "h": 1796
+  },
+  {
+   "file": "work-48.jpg",
+   "src": "images/work-48.jpg",
+   "tag": "夜景人像",
+   "title": "夜景人像",
+   "orig": "P1081389.jpg",
+   "w": 3200,
+   "h": 1786
+  },
+  {
+   "file": "work-49.jpg",
+   "src": "images/work-49.jpg",
+   "tag": "夜景人像",
+   "title": "夜景人像",
+   "orig": "P1081413.jpg",
+   "w": 3200,
+   "h": 1796
+  },
+  {
+   "file": "work-50.jpg",
+   "src": "images/work-50.jpg",
+   "tag": "人像写真",
+   "title": "人像写真 · 精修",
+   "orig": "P1118384_2026-04-20-01-13-51-782_创意图.jpg",
+   "w": 1704,
+   "h": 3024
+  },
+  {
+   "file": "work-51.jpg",
+   "src": "images/work-51.jpg",
+   "tag": "Cosplay",
+   "title": "Cosplay",
+   "orig": "P1118404.jpg",
+   "w": 1704,
+   "h": 3024
+  },
+  {
+   "file": "work-52.jpg",
+   "src": "images/work-52.jpg",
+   "tag": "Cosplay",
+   "title": "Cosplay",
+   "orig": "P1118441.jpg",
+   "w": 2774,
+   "h": 1684
+  },
+  {
+   "file": "work-53.jpg",
+   "src": "images/work-53.jpg",
+   "tag": "人像写真",
+   "title": "人像写真 · 精修",
+   "orig": "P1118441_2026-04-20-01-37-07-462_创意图.jpg",
+   "w": 3024,
+   "h": 1704
+  },
+  {
+   "file": "work-54.jpg",
+   "src": "images/work-54.jpg",
+   "tag": "Cosplay",
+   "title": "Cosplay",
+   "orig": "P1118449.jpg",
+   "w": 3024,
+   "h": 1704
+  },
+  {
+   "file": "work-55.jpg",
+   "src": "images/work-55.jpg",
+   "tag": "人像写真",
+   "title": "人像写真 · 精修",
+   "orig": "P1118449_2026-04-20-02-00-20-222_创意图.jpg",
+   "w": 3024,
+   "h": 1704
+  },
+  {
+   "file": "work-56.jpg",
+   "src": "images/work-56.jpg",
+   "tag": "日常写真",
+   "title": "日常写真",
+   "orig": "微信图片_20241205225241.jpg",
+   "w": 2397,
+   "h": 3200
+  },
+  {
+   "file": "work-57.jpg",
+   "src": "images/work-57.jpg",
+   "tag": "日常写真",
+   "title": "日常写真",
+   "orig": "微信图片_20250518175059.jpg",
+   "w": 3200,
+   "h": 2404
+  },
+  {
+   "file": "work-58.jpg",
+   "src": "images/work-58.jpg",
+   "tag": "日常写真",
+   "title": "日常写真",
+   "orig": "微信图片_20250518175059_(2).jpg",
+   "w": 3200,
+   "h": 2404
+  },
+  {
+   "file": "work-59.jpg",
+   "src": "images/work-59.jpg",
+   "tag": "日常写真",
+   "title": "日常写真",
+   "orig": "微信图片_20261013210209_476_45.jpg",
+   "w": 3200,
+   "h": 2133
+  },
+  {
+   "file": "work-60.jpg",
+   "src": "images/work-60.jpg",
+   "tag": "日常写真",
+   "title": "日常写真",
+   "orig": "微信图片_20261013210218_477_45.jpg",
+   "w": 3200,
+   "h": 2340
+  },
+  {
+   "file": "work-61.jpg",
+   "src": "images/work-61.jpg",
+   "tag": "日常写真",
+   "title": "日常写真",
+   "orig": "微信图片_20261013210228_478_45.jpg",
+   "w": 3200,
+   "h": 2133
+  },
+  {
+   "file": "work-62.jpg",
+   "src": "images/work-62.jpg",
+   "tag": "日常写真",
+   "title": "日常写真",
+   "orig": "微信图片_20261013210231_479_45.jpg",
+   "w": 1704,
+   "h": 3024
+  },
+  {
+   "file": "work-63.jpg",
+   "src": "images/work-63.jpg",
+   "tag": "日常写真",
+   "title": "日常写真",
+   "orig": "微信图片_20261013210234_480_45.jpg",
+   "w": 3024,
+   "h": 1704
+  },
+  {
+   "file": "work-64.jpg",
+   "src": "images/work-64.jpg",
+   "tag": "日常写真",
+   "title": "日常写真",
+   "orig": "微信图片_20261013210238_481_45.jpg",
+   "w": 1646,
+   "h": 3024
+  },
+  {
+   "file": "work-65.jpg",
+   "src": "images/work-65.jpg",
+   "tag": "日常写真",
+   "title": "日常写真",
+   "orig": "微信图片_20261013210241_482_45.jpg",
+   "w": 1459,
+   "h": 2589
+  },
+  {
+   "file": "work-66.jpg",
+   "src": "images/work-66.jpg",
+   "tag": "古风旗袍",
+   "title": "古风旗袍",
+   "orig": "微信图片_20261013210249_483_45.jpg",
+   "w": 2402,
+   "h": 3200
+  },
+  {
+   "file": "work-67.jpg",
+   "src": "images/work-67.jpg",
+   "tag": "古风旗袍",
+   "title": "古风旗袍",
+   "orig": "微信图片_20261013210254_484_45.jpg",
+   "w": 2054,
+   "h": 1615
+  },
+  {
+   "file": "work-68.jpg",
+   "src": "images/work-68.jpg",
+   "tag": "古风旗袍",
+   "title": "古风旗袍",
+   "orig": "微信图片_20261013210300_485_45.jpg",
+   "w": 2402,
+   "h": 3200
+  },
+  {
+   "file": "work-69.jpg",
+   "src": "images/work-69.jpg",
+   "tag": "古风旗袍",
+   "title": "古风旗袍",
+   "orig": "微信图片_20261013210303_486_45.jpg",
+   "w": 1614,
+   "h": 2863
+  },
+  {
+   "file": "work-70.jpg",
+   "src": "images/work-70.jpg",
+   "tag": "古风旗袍",
+   "title": "古风旗袍",
+   "orig": "微信图片_20261013210307_487_45.jpg",
+   "w": 1704,
+   "h": 3024
+  },
+  {
+   "file": "work-71.jpg",
+   "src": "images/work-71.jpg",
+   "tag": "时尚创作",
+   "title": "时尚创作",
+   "orig": "微信图片_20261013210309_488_45.jpg",
+   "w": 1704,
+   "h": 3024
+  },
+  {
+   "file": "work-72.jpg",
+   "src": "images/work-72.jpg",
+   "tag": "时尚创作",
+   "title": "时尚创作",
+   "orig": "微信图片_20261013210312_489_45.jpg",
+   "w": 1704,
+   "h": 3024
+  },
+  {
+   "file": "work-73.jpg",
+   "src": "images/work-73.jpg",
+   "tag": "时尚创作",
+   "title": "时尚创作",
+   "orig": "微信图片_20261013210315_490_45.png",
+   "w": 2508,
+   "h": 1672
+  },
+  {
+   "file": "work-74.jpg",
+   "src": "images/work-74.jpg",
+   "tag": "时尚创作",
+   "title": "时尚创作",
+   "orig": "微信图片_20261013210317_491_45.png",
+   "w": 1536,
+   "h": 2470
+  },
+  {
+   "file": "work-75.jpg",
+   "src": "images/work-75.jpg",
+   "tag": "时尚创作",
+   "title": "时尚创作",
+   "orig": "微信图片_20261013210325_492_45.jpg",
+   "w": 2133,
+   "h": 3200
+  },
+  {
+   "file": "work-76.jpg",
+   "src": "images/work-76.jpg",
+   "tag": "婚礼跟拍",
+   "title": "婚礼跟拍",
+   "orig": "微信图片_20261013210337_493_45.jpg",
+   "w": 2133,
+   "h": 3200
+  },
+  {
+   "file": "work-77.jpg",
+   "src": "images/work-77.jpg",
+   "tag": "婚礼跟拍",
+   "title": "婚礼跟拍",
+   "orig": "微信图片_20261013210348_494_45.jpg",
+   "w": 2133,
+   "h": 3200
+  },
+  {
+   "file": "work-78.jpg",
+   "src": "images/work-78.jpg",
+   "tag": "婚礼跟拍",
+   "title": "婚礼跟拍",
+   "orig": "微信图片_20261013210356_495_45.jpg",
+   "w": 3200,
+   "h": 2133
+  },
+  {
+   "file": "work-79.jpg",
+   "src": "images/work-79.jpg",
+   "tag": "婚礼跟拍",
+   "title": "婚礼跟拍",
+   "orig": "微信图片_20261013210403_496_45.jpg",
+   "w": 3200,
+   "h": 2133
+  },
+  {
+   "file": "work-80.jpg",
+   "src": "images/work-80.jpg",
+   "tag": "婚礼跟拍",
+   "title": "婚礼跟拍",
+   "orig": "微信图片_20261013210409_497_45.jpg",
+   "w": 1947,
+   "h": 3200
+  },
+  {
+   "file": "work-81.jpg",
+   "src": "images/work-81.jpg",
+   "tag": "婚礼跟拍",
+   "title": "婚礼跟拍",
+   "orig": "微信图片_20261013210413_498_45.jpg",
+   "w": 3200,
+   "h": 1796
+  },
+  {
+   "file": "work-82.jpg",
+   "src": "images/work-82.jpg",
+   "tag": "婚礼跟拍",
+   "title": "婚礼跟拍",
+   "orig": "微信图片_20261013210419_499_45.jpg",
+   "w": 2578,
+   "h": 3200
+  },
+  {
+   "file": "work-83.jpg",
+   "src": "images/work-83.jpg",
+   "tag": "婚礼跟拍",
+   "title": "婚礼跟拍",
+   "orig": "微信图片_20261013210426_500_45.jpg",
+   "w": 2133,
+   "h": 3200
+  },
+  {
+   "file": "work-84.jpg",
+   "src": "images/work-84.jpg",
+   "tag": "婚礼跟拍",
+   "title": "婚礼跟拍",
+   "orig": "微信图片_20261013210430_501_45.jpg",
+   "w": 2135,
+   "h": 3200
+  },
+  {
+   "file": "work-85.jpg",
+   "src": "images/work-85.jpg",
+   "tag": "舞台民族",
+   "title": "舞台民族",
+   "orig": "微信图片_20261013210434_502_45.jpg",
+   "w": 2892,
+   "h": 3200
+  },
+  {
+   "file": "work-86.jpg",
+   "src": "images/work-86.jpg",
+   "tag": "舞台民族",
+   "title": "舞台民族",
+   "orig": "微信图片_20261013210437_503_45.jpg",
+   "w": 1711,
+   "h": 3024
+  },
+  {
+   "file": "work-87.jpg",
+   "src": "images/work-87.jpg",
+   "tag": "舞台民族",
+   "title": "舞台民族",
+   "orig": "微信图片_20261013210440_504_45.jpg",
+   "w": 2060,
+   "h": 3200
+  },
+  {
+   "file": "work-88.jpg",
+   "src": "images/work-88.jpg",
+   "tag": "舞台民族",
+   "title": "舞台民族",
+   "orig": "微信图片_20261013210445_505_45.jpg",
+   "w": 2133,
+   "h": 3200
+  },
+  {
+   "file": "work-89.jpg",
+   "src": "images/work-89.jpg",
+   "tag": "舞台民族",
+   "title": "舞台民族",
+   "orig": "微信图片_20261013210449_506_45.jpg",
+   "w": 2133,
+   "h": 3200
+  },
+  {
+   "file": "work-90.jpg",
+   "src": "images/work-90.jpg",
+   "tag": "舞台民族",
+   "title": "舞台民族",
+   "orig": "微信图片_20261013210454_507_45.jpg",
+   "w": 2133,
+   "h": 3200
+  },
+  {
+   "file": "work-91.jpg",
+   "src": "images/work-91.jpg",
+   "tag": "舞台民族",
+   "title": "舞台民族",
+   "orig": "微信图片_20261013210459_508_45.jpg",
+   "w": 2133,
+   "h": 3200
+  },
+  {
+   "file": "work-92.jpg",
+   "src": "images/work-92.jpg",
+   "tag": "舞台民族",
+   "title": "舞台民族",
+   "orig": "微信图片_20261013210502_509_45.jpg",
+   "w": 3200,
+   "h": 2133
+  },
+  {
+   "file": "work-93.jpg",
+   "src": "images/work-93.jpg",
+   "tag": "舞台民族",
+   "title": "舞台民族",
+   "orig": "微信图片_20261013210504_510_45.jpg",
+   "w": 3200,
+   "h": 1900
+  },
+  {
+   "file": "work-94.jpg",
+   "src": "images/work-94.jpg",
+   "tag": "舞台民族",
+   "title": "舞台民族",
+   "orig": "微信图片_20261013210507_511_45.jpg",
+   "w": 3200,
+   "h": 2133
+  },
+  {
+   "file": "work-95.jpg",
+   "src": "images/work-95.jpg",
+   "tag": "舞台民族",
+   "title": "舞台民族",
+   "orig": "微信图片_20261013210508_512_45.jpg",
+   "w": 1280,
+   "h": 853
+  },
+  {
+   "file": "work-96.jpg",
+   "src": "images/work-96.jpg",
+   "tag": "舞台民族",
+   "title": "舞台民族",
+   "orig": "微信图片_20261013210511_513_45.jpg",
+   "w": 3200,
+   "h": 2133
+  },
+  {
+   "file": "work-97.jpg",
+   "src": "images/work-97.jpg",
+   "tag": "舞台民族",
+   "title": "舞台民族",
+   "orig": "微信图片_20261013210515_514_45.jpg",
+   "w": 2132,
+   "h": 3200
+  },
+  {
+   "file": "work-98.jpg",
+   "src": "images/work-98.jpg",
+   "tag": "舞台民族",
+   "title": "舞台民族",
+   "orig": "微信图片_20261013210519_515_45.jpg",
+   "w": 3200,
+   "h": 2133
+  },
+  {
+   "file": "work-99.jpg",
+   "src": "images/work-99.jpg",
+   "tag": "舞台民族",
+   "title": "舞台民族",
+   "orig": "微信图片_20261013210521_516_45.jpg",
+   "w": 3200,
+   "h": 2133
+  },
+  {
+   "file": "work-100.jpg",
+   "src": "images/work-100.jpg",
+   "tag": "舞台民族",
+   "title": "舞台民族",
+   "orig": "微信图片_20261013210524_517_45.jpg",
+   "w": 3200,
+   "h": 2133
+  }
+ ],
+ "ai": [
+  {
+   "file": "ai-01.jpg",
+   "src": "images/ai-01.jpg",
+   "tag": "AI 实验",
+   "title": "AI 生成",
+   "orig": "5a0f0850-ac77-413a-8ea6-63c3cfbf2b8e_0_0.jpg",
+   "w": 1024,
+   "h": 1024
+  },
+  {
+   "file": "ai-02.jpg",
+   "src": "images/ai-02.jpg",
+   "tag": "AI 实验",
+   "title": "ComfyUI 生成",
+   "orig": "ComfyUI_00093_.png",
+   "w": 3072,
+   "h": 2048
+  },
+  {
+   "file": "ai-03.jpg",
+   "src": "images/ai-03.jpg",
+   "tag": "AI 实验",
+   "title": "ComfyUI 生成",
+   "orig": "ComfyUI_00095_.png",
+   "w": 3072,
+   "h": 2048
+  },
+  {
+   "file": "ai-04.jpg",
+   "src": "images/ai-04.jpg",
+   "tag": "AI 实验",
+   "title": "ComfyUI 生成",
+   "orig": "ComfyUI_00098_.png",
+   "w": 3072,
+   "h": 2048
+  },
+  {
+   "file": "ai-05.jpg",
+   "src": "images/ai-05.jpg",
+   "tag": "AI 人像",
+   "title": "Krea 角色创作",
+   "orig": "krea2_identity_edit_00021_.png",
+   "w": 896,
+   "h": 1408
+  },
+  {
+   "file": "ai-06.jpg",
+   "src": "images/ai-06.jpg",
+   "tag": "AI 人像",
+   "title": "Krea 角色创作",
+   "orig": "krea2_identity_edit_00023_.png",
+   "w": 816,
+   "h": 1288
+  },
+  {
+   "file": "ai-07.jpg",
+   "src": "images/ai-07.jpg",
+   "tag": "AI 人像",
+   "title": "Krea 角色创作",
+   "orig": "krea2_identity_edit_00025_.png",
+   "w": 816,
+   "h": 1288
+  },
+  {
+   "file": "ai-08.jpg",
+   "src": "images/ai-08.jpg",
+   "tag": "AI 人像",
+   "title": "Krea 角色创作",
+   "orig": "krea2_identity_edit_00028_.png",
+   "w": 816,
+   "h": 1288
+  },
+  {
+   "file": "ai-09.jpg",
+   "src": "images/ai-09.jpg",
+   "tag": "AI 人像",
+   "title": "Krea 角色创作",
+   "orig": "krea2_identity_edit_00031_.png",
+   "w": 816,
+   "h": 1288
+  },
+  {
+   "file": "ai-10.jpg",
+   "src": "images/ai-10.jpg",
+   "tag": "AI 人像",
+   "title": "Krea 角色创作",
+   "orig": "krea2_identity_edit_00032_.png",
+   "w": 816,
+   "h": 1288
+  },
+  {
+   "file": "ai-11.jpg",
+   "src": "images/ai-11.jpg",
+   "tag": "AI 人像",
+   "title": "Krea 角色创作",
+   "orig": "krea2_identity_edit_00033_.png",
+   "w": 816,
+   "h": 1288
+  },
+  {
+   "file": "ai-12.jpg",
+   "src": "images/ai-12.jpg",
+   "tag": "AI 人像",
+   "title": "Krea 角色创作",
+   "orig": "krea2_identity_edit_00035_.png",
+   "w": 816,
+   "h": 1288
+  },
+  {
+   "file": "ai-13.jpg",
+   "src": "images/ai-13.jpg",
+   "tag": "AI 人像",
+   "title": "Krea 角色创作",
+   "orig": "krea2_identity_edit_00038_.png",
+   "w": 816,
+   "h": 1288
+  },
+  {
+   "file": "ai-14.jpg",
+   "src": "images/ai-14.jpg",
+   "tag": "AI 人像",
+   "title": "Krea 角色创作",
+   "orig": "krea2_identity_edit_00042_.png",
+   "w": 816,
+   "h": 1288
+  },
+  {
+   "file": "ai-15.jpg",
+   "src": "images/ai-15.jpg",
+   "tag": "AI 人像",
+   "title": "Krea 角色创作",
+   "orig": "krea2_identity_edit_00043_.png",
+   "w": 816,
+   "h": 1288
+  },
+  {
+   "file": "ai-16.jpg",
+   "src": "images/ai-16.jpg",
+   "tag": "AI 人像",
+   "title": "Krea 角色创作",
+   "orig": "krea2_identity_edit_00045_.png",
+   "w": 816,
+   "h": 1288
+  },
+  {
+   "file": "ai-17.jpg",
+   "src": "images/ai-17.jpg",
+   "tag": "AI 人像",
+   "title": "Krea 角色创作",
+   "orig": "krea2_identity_edit_00046_.png",
+   "w": 816,
+   "h": 1288
+  },
+  {
+   "file": "ai-18.jpg",
+   "src": "images/ai-18.jpg",
+   "tag": "AI 人像",
+   "title": "Krea 角色创作",
+   "orig": "krea2_identity_edit_00049_.png",
+   "w": 816,
+   "h": 1288
+  },
+  {
+   "file": "ai-19.jpg",
+   "src": "images/ai-19.jpg",
+   "tag": "AI 人像",
+   "title": "Krea 角色创作",
+   "orig": "krea2_identity_edit_00051_.png",
+   "w": 816,
+   "h": 1288
+  },
+  {
+   "file": "ai-20.jpg",
+   "src": "images/ai-20.jpg",
+   "tag": "AI 人像",
+   "title": "Krea 角色创作",
+   "orig": "krea2_identity_edit_00052_.png",
+   "w": 816,
+   "h": 1288
+  },
+  {
+   "file": "ai-21.jpg",
+   "src": "images/ai-21.jpg",
+   "tag": "AI 人像",
+   "title": "Krea 角色创作",
+   "orig": "krea2_identity_edit_00053_.png",
+   "w": 816,
+   "h": 1288
+  },
+  {
+   "file": "ai-22.jpg",
+   "src": "images/ai-22.jpg",
+   "tag": "AI 人像",
+   "title": "Krea 角色创作",
+   "orig": "krea2_identity_edit_00056_.png",
+   "w": 816,
+   "h": 1288
+  },
+  {
+   "file": "ai-23.jpg",
+   "src": "images/ai-23.jpg",
+   "tag": "AI 人像",
+   "title": "Krea 角色创作",
+   "orig": "krea2_identity_edit_00059_.png",
+   "w": 816,
+   "h": 1288
+  },
+  {
+   "file": "ai-24.jpg",
+   "src": "images/ai-24.jpg",
+   "tag": "AI 人像",
+   "title": "Krea 角色创作",
+   "orig": "krea2_identity_edit_00060_.png",
+   "w": 816,
+   "h": 1288
+  },
+  {
+   "file": "ai-25.jpg",
+   "src": "images/ai-25.jpg",
+   "tag": "AI 人像",
+   "title": "Krea 角色创作",
+   "orig": "krea2_identity_edit_00066_.png",
+   "w": 816,
+   "h": 1288
+  },
+  {
+   "file": "ai-26.jpg",
+   "src": "images/ai-26.jpg",
+   "tag": "AI 人像",
+   "title": "Krea 角色创作",
+   "orig": "krea2_identity_edit_00067_.png",
+   "w": 816,
+   "h": 1288
+  }
+ ],
+ "aigc": [
+  {
+   "file": "aigc-01.jpg",
+   "src": "images/aigc-01.jpg",
+   "tag": "包装设计",
+   "title": "云雾茶包装",
+   "orig": "01_云雾茶_单盒斜角展示.png",
+   "w": 1831,
+   "h": 2289
+  },
+  {
+   "file": "aigc-02.jpg",
+   "src": "images/aigc-02.jpg",
+   "tag": "角色三视图",
+   "title": "角色三视图",
+   "orig": "01_庐北北_3D三视图.png",
+   "w": 2730,
+   "h": 1536
+  },
+  {
+   "file": "aigc-03.jpg",
+   "src": "images/aigc-03.jpg",
+   "tag": "包装设计",
+   "title": "云雾茶包装",
+   "orig": "02_云雾茶_开启内托陈列.png",
+   "w": 2730,
+   "h": 1536
+  },
+  {
+   "file": "aigc-04.jpg",
+   "src": "images/aigc-04.jpg",
+   "tag": "包装设计",
+   "title": "云雾茶包装",
+   "orig": "02_云雾茶_开启内托陈列_新版.png",
+   "w": 2730,
+   "h": 1536
+  },
+  {
+   "file": "aigc-05.jpg",
+   "src": "images/aigc-05.jpg",
+   "tag": "角色三视图",
+   "title": "角色三视图",
+   "orig": "02_鹤小仙_3D三视图.png",
+   "w": 2730,
+   "h": 1536
+  },
+  {
+   "file": "aigc-06.jpg",
+   "src": "images/aigc-06.jpg",
+   "tag": "包装设计",
+   "title": "云雾茶包装",
+   "orig": "03_云雾茶_盒袋组合陈列.png",
+   "w": 2730,
+   "h": 1536
+  },
+  {
+   "file": "aigc-07.jpg",
+   "src": "images/aigc-07.jpg",
+   "tag": "角色三视图",
+   "title": "角色三视图",
+   "orig": "03_鹿小白_3D三视图.png",
+   "w": 2730,
+   "h": 1536
+  },
+  {
+   "file": "aigc-08.jpg",
+   "src": "images/aigc-08.jpg",
+   "tag": "包装设计",
+   "title": "云雾茶包装",
+   "orig": "04_云雾茶_内袋平铺展示.png",
+   "w": 2730,
+   "h": 1536
+  },
+  {
+   "file": "aigc-09.jpg",
+   "src": "images/aigc-09.jpg",
+   "tag": "包装设计",
+   "title": "云雾茶包装",
+   "orig": "04_云雾茶_内袋平铺展示_新版.png",
+   "w": 2730,
+   "h": 1536
+  },
+  {
+   "file": "aigc-10.jpg",
+   "src": "images/aigc-10.jpg",
+   "tag": "角色三视图",
+   "title": "角色三视图",
+   "orig": "04_猕六六_3D三视图.png",
+   "w": 2730,
+   "h": 1536
+  },
+  {
+   "file": "aigc-11.jpg",
+   "src": "images/aigc-11.jpg",
+   "tag": "包装设计",
+   "title": "石鱼包装",
+   "orig": "06_石鱼_开启内托陈列.png",
+   "w": 2730,
+   "h": 1536
+  },
+  {
+   "file": "aigc-12.jpg",
+   "src": "images/aigc-12.jpg",
+   "tag": "包装设计",
+   "title": "石鱼包装",
+   "orig": "06_石鱼_开启内托陈列_新版.png",
+   "w": 2730,
+   "h": 1536
+  },
+  {
+   "file": "aigc-13.jpg",
+   "src": "images/aigc-13.jpg",
+   "tag": "包装设计",
+   "title": "石鱼包装",
+   "orig": "07_石鱼_盒袋组合陈列.png",
+   "w": 2730,
+   "h": 1536
+  },
+  {
+   "file": "aigc-14.jpg",
+   "src": "images/aigc-14.jpg",
+   "tag": "包装设计",
+   "title": "石鱼包装",
+   "orig": "08_石鱼_内袋平铺展示.png",
+   "w": 2730,
+   "h": 1536
+  },
+  {
+   "file": "aigc-15.jpg",
+   "src": "images/aigc-15.jpg",
+   "tag": "包装设计",
+   "title": "石鱼包装",
+   "orig": "08_石鱼_内袋平铺展示_新版.png",
+   "w": 2730,
+   "h": 1536
+  },
+  {
+   "file": "aigc-16.jpg",
+   "src": "images/aigc-16.jpg",
+   "tag": "项目总览",
+   "title": "项目总览",
+   "orig": "preview.jpg",
+   "w": 2800,
+   "h": 1621
+  },
+  {
+   "file": "aigc-17.jpg",
+   "src": "images/aigc-17.jpg",
+   "tag": "包装设计",
+   "title": "云雾茶包装",
+   "orig": "包装_庐山云雾茶_内袋.png",
+   "w": 1831,
+   "h": 2289
+  },
+  {
+   "file": "aigc-18.jpg",
+   "src": "images/aigc-18.jpg",
+   "tag": "包装设计",
+   "title": "云雾茶包装",
+   "orig": "包装_庐山云雾茶_内袋_新版.png",
+   "w": 1831,
+   "h": 2289
+  },
+  {
+   "file": "aigc-19.jpg",
+   "src": "images/aigc-19.jpg",
+   "tag": "包装设计",
+   "title": "云雾茶包装",
+   "orig": "包装_庐山云雾茶_外盒样机.png",
+   "w": 1831,
+   "h": 2289
+  },
+  {
+   "file": "aigc-20.jpg",
+   "src": "images/aigc-20.jpg",
+   "tag": "包装设计",
+   "title": "石鱼包装",
+   "orig": "包装_庐山石鱼_内袋.png",
+   "w": 1831,
+   "h": 2289
+  },
+  {
+   "file": "aigc-21.jpg",
+   "src": "images/aigc-21.jpg",
+   "tag": "包装设计",
+   "title": "石鱼包装",
+   "orig": "包装_庐山石鱼_内袋_新版.png",
+   "w": 1831,
+   "h": 2289
+  },
+  {
+   "file": "aigc-22.jpg",
+   "src": "images/aigc-22.jpg",
+   "tag": "包装设计",
+   "title": "石鱼包装",
+   "orig": "包装_庐山石鱼_外盒样机.png",
+   "w": 1831,
+   "h": 2289
+  },
+  {
+   "file": "aigc-23.jpg",
+   "src": "images/aigc-23.jpg",
+   "tag": "包装设计",
+   "title": "云雾茶包装",
+   "orig": "参考_云雾茶包装.jpg",
+   "w": 995,
+   "h": 1193
+  },
+  {
+   "file": "aigc-24.jpg",
+   "src": "images/aigc-24.jpg",
+   "tag": "包装设计",
+   "title": "石鱼包装",
+   "orig": "参考_石鱼包装.jpg",
+   "w": 1223,
+   "h": 777
+  },
+  {
+   "file": "aigc-25.jpg",
+   "src": "images/aigc-25.jpg",
+   "tag": "项目参考",
+   "title": "项目参考",
+   "orig": "屏幕截图 2026-09-28 161246.png",
+   "w": 786,
+   "h": 245
+  },
+  {
+   "file": "aigc-26.jpg",
+   "src": "images/aigc-26.jpg",
+   "tag": "庐山家族",
+   "title": "庐山家族三视图",
+   "orig": "庐山IP_3D三视图.png",
+   "w": 2730,
+   "h": 1536
+  },
+  {
+   "file": "aigc-27.jpg",
+   "src": "images/aigc-27.jpg",
+   "tag": "庐山家族",
+   "title": "庐山家族全家福",
+   "orig": "庐山家族_3D全家福.png",
+   "w": 2730,
+   "h": 1536
+  },
+  {
+   "file": "aigc-28.jpg",
+   "src": "images/aigc-28.jpg",
+   "tag": "庐山家族",
+   "title": "庐山家族全家福",
+   "orig": "庐山家族_3D全家福_庐山背景.png",
+   "w": 2730,
+   "h": 1536
+  },
+  {
+   "file": "aigc-29.jpg",
+   "src": "images/aigc-29.jpg",
+   "tag": "庐山家族",
+   "title": "庐山家族全家福",
+   "orig": "庐山家族_3D全家福_比例修正版.png",
+   "w": 2730,
+   "h": 1536
+  },
+  {
+   "file": "aigc-30.jpg",
+   "src": "images/aigc-30.jpg",
+   "tag": "其他",
+   "title": "其他",
+   "orig": "微信图片_20260928102048_17_555.jpg",
+   "w": 2262,
+   "h": 3200
+  },
+  {
+   "file": "aigc-31.jpg",
+   "src": "images/aigc-31.jpg",
+   "tag": "其他",
+   "title": "其他",
+   "orig": "微信图片_20260928102125_20_555.png",
+   "w": 592,
+   "h": 222
+  },
+  {
+   "file": "aigc-32.jpg",
+   "src": "images/aigc-32.jpg",
+   "tag": "其他",
+   "title": "其他",
+   "orig": "微信图片_20260928102355_21_555.jpg",
+   "w": 3200,
+   "h": 1852
+  },
+  {
+   "file": "aigc-33.jpg",
+   "src": "images/aigc-33.jpg",
+   "tag": "其他",
+   "title": "其他",
+   "orig": "微信图片_20260928102601_24_555.jpg",
+   "w": 3200,
+   "h": 1154
+  },
+  {
+   "file": "aigc-34.jpg",
+   "src": "images/aigc-34.jpg",
+   "tag": "其他",
+   "title": "其他",
+   "orig": "微信图片_20260928155303_405_45.jpg",
+   "w": 1223,
+   "h": 777
+  },
+  {
+   "file": "aigc-35.jpg",
+   "src": "images/aigc-35.jpg",
+   "tag": "其他",
+   "title": "其他",
+   "orig": "微信图片_20260928155316_406_45.jpg",
+   "w": 887,
+   "h": 755
+  },
+  {
+   "file": "aigc-36.jpg",
+   "src": "images/aigc-36.jpg",
+   "tag": "其他",
+   "title": "其他",
+   "orig": "微信图片_20260928155321_407_45.jpg",
+   "w": 880,
+   "h": 752
+  },
+  {
+   "file": "aigc-37.jpg",
+   "src": "images/aigc-37.jpg",
+   "tag": "其他",
+   "title": "其他",
+   "orig": "微信图片_20260928155325_408_45.jpg",
+   "w": 878,
+   "h": 751
+  },
+  {
+   "file": "aigc-38.jpg",
+   "src": "images/aigc-38.jpg",
+   "tag": "其他",
+   "title": "其他",
+   "orig": "微信图片_20260928155334_409_45.jpg",
+   "w": 995,
+   "h": 1193
+  },
+  {
+   "file": "aigc-39.jpg",
+   "src": "images/aigc-39.jpg",
+   "tag": "其他",
+   "title": "其他",
+   "orig": "微信图片_20260929145634_437_45.jpg",
+   "w": 1831,
+   "h": 2289
+  }
+ ],
+ "shop": [
+  {
+   "file": "shop-01.jpg",
+   "src": "images/shop-01.jpg",
+   "tag": "电商产品",
+   "title": "电商产品图",
+   "orig": "微信图片_20261013210139_469_45.png",
+   "w": 2048,
+   "h": 2048
+  },
+  {
+   "file": "shop-02.jpg",
+   "src": "images/shop-02.jpg",
+   "tag": "电商产品",
+   "title": "电商产品图",
+   "orig": "微信图片_20261013210141_471_45.png",
+   "w": 2048,
+   "h": 2048
+  },
+  {
+   "file": "shop-03.jpg",
+   "src": "images/shop-03.jpg",
+   "tag": "电商产品",
+   "title": "电商产品图",
+   "orig": "微信图片_20261013210144_472_45.png",
+   "w": 2048,
+   "h": 2048
+  },
+  {
+   "file": "shop-04.jpg",
+   "src": "images/shop-04.jpg",
+   "tag": "电商产品",
+   "title": "电商产品图",
+   "orig": "微信图片_20261013210146_473_45.png",
+   "w": 1440,
+   "h": 1440
+  },
+  {
+   "file": "shop-05.jpg",
+   "src": "images/shop-05.jpg",
+   "tag": "电商产品",
+   "title": "电商产品图",
+   "orig": "微信图片_20261013210151_474_45.png",
+   "w": 2048,
+   "h": 2048
+  }
+ ]
+}

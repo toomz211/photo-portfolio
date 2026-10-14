@@ -1,0 +1,97 @@
+{
+ "video-01": {
+  "file": "video-01.mp4",
+  "poster": "videos/posters/video-01.jpg",
+  "duration": "04:39"
+ },
+ "video-02": {
+  "file": "video-02.mp4",
+  "poster": "videos/posters/video-02.jpg",
+  "duration": "02:20"
+ },
+ "video-03": {
+  "file": "video-03.mp4",
+  "poster": "videos/posters/video-03.jpg",
+  "duration": "00:09"
+ },
+ "video-04": {
+  "file": "video-04.mp4",
+  "poster": "videos/posters/video-04.jpg",
+  "duration": "00:47"
+ },
+ "video-05": {
+  "file": "video-05.mp4",
+  "poster": "videos/posters/video-05.jpg",
+  "duration": "05:18"
+ },
+ "video-06": {
+  "file": "video-06.mp4",
+  "poster": "videos/posters/video-06.jpg",
+  "duration": "01:05"
+ },
+ "video-07": {
+  "file": "video-07.mp4",
+  "poster": "videos/posters/video-07.jpg",
+  "duration": "00:32"
+ },
+ "video-08": {
+  "file": "video-08.mp4",
+  "poster": "videos/posters/video-08.jpg",
+  "duration": "02:36"
+ },
+ "video-09": {
+  "file": "video-09.mp4",
+  "poster": "videos/posters/video-09.jpg",
+  "duration": "01:51"
+ },
+ "video-10": {
+  "file": "video-10.mp4",
+  "poster": "videos/posters/video-10.jpg",
+  "duration": "02:57"
+ },
+ "video-11": {
+  "file": "video-11.mp4",
+  "poster": "videos/posters/video-11.jpg",
+  "duration": "02:30"
+ },
+ "video-12": {
+  "file": "video-12.mp4",
+  "poster": "videos/posters/video-12.jpg",
+  "duration": "02:41"
+ },
+ "video-13": {
+  "file": "video-13.mp4",
+  "poster": "videos/posters/video-13.jpg",
+  "duration": "00:05"
+ },
+ "video-14": {
+  "file": "video-14.mp4",
+  "poster": "videos/posters/video-14.jpg",
+  "duration": "00:10"
+ },
+ "video-15": {
+  "file": "video-15.mp4",
+  "poster": "videos/posters/video-15.jpg",
+  "duration": "00:05"
+ },
+ "video-16": {
+  "file": "video-16.mp4",
+  "poster": "videos/posters/video-16.jpg",
+  "duration": "00:05"
+ },
+ "video-17": {
+  "file": "video-17.mp4",
+  "poster": "videos/posters/video-17.jpg",
+  "duration": "00:05"
+ },
+ "video-18": {
+  "file": "video-18.mp4",
+  "poster": "videos/posters/video-18.jpg",
+  "duration": "00:15"
+ },
+ "video-19": {
+  "file": "video-19.mp4",
+  "poster": "videos/posters/video-19.jpg",
+  "duration": "00:17"
+ }
+}
