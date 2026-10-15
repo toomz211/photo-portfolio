@@ -22,7 +22,7 @@ export default function HeroSection({ onCtaClick }: HeroSectionProps) {
         loop
         playsInline
         preload="auto"
-        poster={asset('videos/posters/video-01.jpg')}
+        poster={asset('videos/posters/hero-bg.jpg')}
         src={asset('videos/hero-bg.mp4')}
         aria-label="摄影作品背景视频"
       />

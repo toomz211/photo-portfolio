@@ -1,5 +1,7 @@
+import { useMemo, useState } from 'react';
 import { motion } from 'framer-motion';
-import { Pencil, Check, RotateCcw, X } from 'lucide-react';
+import { Pencil, Check, RotateCcw, X, Lock, LogOut } from 'lucide-react';
+import { isAdmin, tryLogin, logout, wantsAdmin } from '@/lib/admin';
 
 interface GalleryEditorBarProps {
   editing: boolean;
@@ -11,7 +13,7 @@ interface GalleryEditorBarProps {
   hasLocalChanges: boolean;
 }
 
-/** 图片板块顶部工具栏：进入编辑模式 / 保存 / 恢复默认 */
+/** 图片板块顶部工具栏：进入编辑模式 / 保存 / 恢复默认（仅站长可用，需 ?admin=1 + 口令） */
 export default function GalleryEditorBar({
   editing,
   removedCount,
@@ -21,6 +23,60 @@ export default function GalleryEditorBar({
   onReset,
   hasLocalChanges,
 }: GalleryEditorBarProps) {
+  const [admin, setAdmin] = useState(isAdmin());
+  const [pw, setPw] = useState('');
+  const [error, setError] = useState(false);
+
+  // 仅当 URL 带 ?admin=1 时显示登录入口；普通访客完全看不到任何编辑 UI
+  const showLogin = useMemo(() => !admin && wantsAdmin(), [admin]);
+
+  const submitLogin = () => {
+    if (tryLogin(pw)) {
+      setAdmin(true);
+      setPw('');
+      setError(false);
+    } else {
+      setError(true);
+    }
+  };
+
+  // —— 未授权：默认不渲染任何内容 ——
+  if (!admin) {
+    if (!showLogin) return null;
+    return (
+      <div className="mb-10 flex flex-wrap items-center gap-3">
+        <form
+          onSubmit={(e) => {
+            e.preventDefault();
+            submitLogin();
+          }}
+          className="inline-flex items-center gap-2 rounded-full border border-border bg-white px-4 py-2 shadow-sm"
+        >
+          <Lock className="size-4 text-muted-foreground" />
+          <input
+            type="password"
+            value={pw}
+            onChange={(e) => {
+              setPw(e.target.value);
+              setError(false);
+            }}
+            placeholder="管理员口令"
+            autoComplete="off"
+            className="w-36 bg-transparent text-sm text-foreground outline-none placeholder:text-muted-foreground"
+          />
+          <button
+            type="submit"
+            className="cursor-pointer rounded-full bg-primary px-4 py-1.5 text-xs font-semibold text-white transition-colors hover:bg-primary/90"
+          >
+            进入编辑
+          </button>
+        </form>
+        {error && <span className="text-xs font-medium text-red-500">口令不正确</span>}
+      </div>
+    );
+  }
+
+  // —— 已授权：编辑入口 / 编辑模式工具栏 ——
   if (!editing) {
     return (
       <div className="mb-10 flex flex-wrap items-center gap-3">
@@ -48,6 +104,17 @@ export default function GalleryEditorBar({
             恢复默认
           </button>
         )}
+        <button
+          type="button"
+          onClick={() => {
+            logout();
+            setAdmin(false);
+          }}
+          className="inline-flex cursor-pointer items-center gap-1.5 rounded-full border border-border bg-white px-3.5 py-2 text-xs font-medium text-muted-foreground transition-colors hover:text-red-500"
+        >
+          <LogOut className="size-3.5" />
+          退出管理
+        </button>
       </div>
     );
   }
